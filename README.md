@@ -74,7 +74,7 @@ Or simply double-click `ClinkerGUI.bat` (Windows)
 ![English UI](https://github.com/CodeNewbie88/clinker-gui/blob/main/screenshots/en_ui.png.png)
 
 ### Chinese Interface / 中文界面
-![Chinese UI]([screenshots/zh_ui.png](https://github.com/CodeNewbie88/clinker-gui/blob/main/screenshots/zh_ui.png.png)
+![Chinese UI](https://github.com/CodeNewbie88/clinker-gui/blob/main/screenshots/zh_ui.png.png)
 
 ---
 
@@ -166,4 +166,5 @@ This project is licensed under the MIT License.
 ⭐ **If this project helps you, please give it a star! / 如果这个项目对您有帮助，请给一个 Star！**
 
 </div>
+
 
