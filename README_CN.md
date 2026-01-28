@@ -659,10 +659,11 @@ clinker/
 
 <div align="center">
 
-**开发者**: Antigravity AI Assistant  
+**开发者**: CodeWong  
 **版本**: v1.3  
 **最后更新**: 2026-01-28
 
 **⭐ 如果这个项目对您有帮助，请给一个 Star！**
 
 </div>
+
