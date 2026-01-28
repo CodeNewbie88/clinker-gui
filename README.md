@@ -159,12 +159,13 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-**Developer / 开发者**: Antigravity AI Assistant  
+**Developer / 开发者**: CodeWong  
 **Version / 版本**: 2.0 (International Edition / 国际版)  
 **Last Update / 最后更新**: 2026-01-28
 
 ⭐ **If this project helps you, please give it a star! / 如果这个项目对您有帮助，请给一个 Star！**
 
 </div>
+
 
 
