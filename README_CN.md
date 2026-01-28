@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.3-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
@@ -441,7 +441,7 @@ A:
 
 ## 🔄 更新日志
 
-### v1.3 (2026-01-28) - 当前版本
+### v1.3 (2026-01-28)
 
 **新增**：
 - ✅ 隐藏控制台窗口：运行时不弹出黑色 cmd 窗口
@@ -666,4 +666,5 @@ clinker/
 **⭐ 如果这个项目对您有帮助，请给一个 Star！**
 
 </div>
+
 
